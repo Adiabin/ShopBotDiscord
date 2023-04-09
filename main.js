@@ -2,7 +2,7 @@ const Discord = require("discord.js");
 
 const client = new Discord.Client({intents: ["GUILDS", "GUILD_MESSAGES"]});
 
-const prefix = '!';
+const prefix = 's!';
 
 const channel = '869072946419892306';
 
