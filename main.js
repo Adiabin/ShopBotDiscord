@@ -4,7 +4,7 @@ const client = new Discord.Client({intents: ["GUILDS", "GUILD_MESSAGES"]});
 
 const prefix = 's!';
 
-const channel = '869072946419892306';
+const channel = '1093467012136710174';
 
 var messages = 0;
 
