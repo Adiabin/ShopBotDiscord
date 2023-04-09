@@ -983,4 +983,4 @@ function randomIntFromInterval(min, max) { // min and max included
     return Math.floor(Math.random() * (max - min + 1) + min)
 }
 
-client.login('BotTokenGoesHere');
+client.login('MTA5MzU4MDI2ODg5NzU2Njc1Mw.GOkvYy.k4xLH70D-eZBfh6Fj_uTkS8QbPhsofTVxBcaEU');
